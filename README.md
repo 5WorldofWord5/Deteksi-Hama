@@ -1,1 +1,10 @@
-Pest Detection adalah sistem berbasis Computer Vision dan Machine Learning yang dirancang untuk mendeteksi dan mengklasifikasikan hama tanaman secara otomatis melalui citra daun. Sistem ini memanfaatkan Convolutional Neural Network (CNN) untuk menganalisis pola visual seperti warna, tekstur, dan bentuk kerusakan daun yang disebabkan oleh hama.
+- install library ini 
+1. tensorflow 
+2. Keras 
+3. numpy 
+4. pandas
+5. imutils
+6. sklearn
+7. matplotlib 
+8. os
+9. seaborn

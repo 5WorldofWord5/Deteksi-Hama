@@ -1,2 +1,1 @@
-# Pest-Detection
-Pest Detection is a system based on Computer Vision and Machine Learning designed to automatically detect and classify plant pests through leaf images. This system utilizes Convolutional Neural Networks (CNNs) to analyze visual patterns such as color, texture, and leaf damage characteristics caused by pests.
+Pest Detection adalah sistem berbasis Computer Vision dan Machine Learning yang dirancang untuk mendeteksi dan mengklasifikasikan hama tanaman secara otomatis melalui citra daun. Sistem ini memanfaatkan Convolutional Neural Network (CNN) untuk menganalisis pola visual seperti warna, tekstur, dan bentuk kerusakan daun yang disebabkan oleh hama.
